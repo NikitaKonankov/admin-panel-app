@@ -1,0 +1,5 @@
+export const formActionTypes = {
+    SET_VISIBLE: "MODAL_FORM.SET_VISIBLE",
+    SET_ORDER: "MODAL_FORM.SET_ORDER",
+    CLEAR_ORDER: "MODAL_FORM.CLEAR_ORDER",
+};
